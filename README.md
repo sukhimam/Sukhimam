@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <a href="https://sukhimam.github.io"><img src="https://img.shields.io/badge/Website-sukhimam.github.io-24292f?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
+  <a href="https://sukhimam.github.io"><img src="https://img.shields.io/badge/Website-sukhimam.github.io-24292f?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://scholar.google.com/citations?user=BWZ27IcAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-24292f?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="mailto:shafizimam@nwu.edu.ng"><img src="https://img.shields.io/badge/Email-shafizimam%40nwu.edu.ng-24292f?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
   <!-- Optional: add ORCID / LinkedIn when ready
